@@ -2,6 +2,8 @@
 
 [Endless gizmo | Babylon.js Playground](https://playground.babylonjs.com/#FQJZ20#0)
 
+[Gizmo's Endless Mirror | Babylon.js Playground](https://playground.babylonjs.com/#Q4NS9U#0)
+
 [Endless ocean of floating gizmos | Babylon.js Playground](https://playground.babylonjs.com/#ZGHPSG#0)
 
 [Accurate gip-space gizmos | Babylon.js Playground](https://playground.babylonjs.com/#SXYI06#0)
