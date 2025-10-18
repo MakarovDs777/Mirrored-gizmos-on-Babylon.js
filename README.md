@@ -1,5 +1,11 @@
 # Mirrored-gizmos-on-Babylon.js
 
+[Endless gizmo | Babylon.js Playground](https://playground.babylonjs.com/#FQJZ20#0)
+
+[Endless ocean of floating gizmos | Babylon.js Playground](https://playground.babylonjs.com/#ZGHPSG#0)
+
+[Accurate gip-space gizmos | Babylon.js Playground](https://playground.babylonjs.com/#SXYI06#0)
+
 [Ocean of floating gizmos | Babylon.js Playground](https://playground.babylonjs.com/#DIJ51Z#0)
 
 [Gizmos manipulator with repeatable movement XYZ more gizmos and OBJ but when you click, its face texture changes | Babylon.js Playground](https://playground.babylonjs.com/#DHJ6WK#0)
@@ -43,3 +49,5 @@
 [Precise endless gizmos manipulator with repeatable movement but this is a structure OBJ. | Babylon.js Playground](https://playground.babylonjs.com/#CVKVE1#0)
 
 [Gm's manipulator with repeatable movement more gizmos and OBJ but when you click,its face texture changes in all copies | Babylon.js Playground](https://playground.babylonjs.com/#9NF5D0#0)
+
+[Gizmo mirror (A space with mirrored borders) | Babylon.js Playground](https://playground.babylonjs.com/#6T03ZB#0)
