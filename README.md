@@ -18,7 +18,7 @@
 
 [Changing the scope of the OBJ structure using gizmo! | Babylon.js Playground](https://playground.babylonjs.com/#KS28CW#0)
 
-[Simplified version with 1 structure, and 1 gizmo | Babylon.js Playground](https://playground.babylonjs.com/#AA2OOY#0)
+[Simplified version with 1 structure, and 1 gizmo | Babylon.js Playground](https://playground.babylonjs.com/#AA2OOY#1)
 
 [Mirrored gizmos - Download all generated OBJ structures | Babylon.js Playground](https://playground.babylonjs.com/#AAJ24W#0)
 
