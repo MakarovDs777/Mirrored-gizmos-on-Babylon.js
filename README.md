@@ -16,7 +16,7 @@
 
 [Precise endless gizmos manipulator with repeatable movement XYZ and dragging textures on all structures | Babylon.js Playground](https://playground.babylonjs.com/#OPEWU3#0)
 
-[Changing the scope of the OBJ structure using gizmo! | Babylon.js Playground](https://playground.babylonjs.com/#KS28CW#0)
+[Changing the scope of the OBJ structure using gizmo! | Babylon.js Playground](https://playground.babylonjs.com/#KS28CW#1)
 
 [Simplified version with 1 structure, and 1 gizmo | Babylon.js Playground](https://playground.babylonjs.com/#AA2OOY#1)
 
