@@ -28,7 +28,7 @@
 
 [Precise endless gizmos manipulator with repeatable movement | Babylon.js Playground](https://playground.babylonjs.com/#55ZLIC#1)
 
-[Precise endless gizmos manipulator XYZ version | Babylon.js Playground](https://playground.babylonjs.com/#UZIWPW#1)
+[Precise endless gizmos manipulator XYZ version | Babylon.js Playground](https://playground.babylonjs.com/#UZIWPW#2)
 
 [Precise endless gizmos manipulator with repeatable movement XZ but more gizmos | Babylon.js Playground](https://playground.babylonjs.com/#WEPXXM#1)
 
