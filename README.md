@@ -53,3 +53,5 @@
 [Gm's manipulator with repeatable movement more gizmos and OBJ but when you click,its face texture changes in all copies | Babylon.js Playground](https://playground.babylonjs.com/#9NF5D0#1)
 
 [Gizmo mirror (A space with mirrored borders) | Babylon.js Playground](https://playground.babylonjs.com/#6T03ZB#1)
+
+[Precise endless gizmos manipulator with repeatable movement XZ but LZW images and more gizmos | Babylon.js Playground](https://playground.babylonjs.com/#82I98E)
