@@ -57,3 +57,5 @@
 [Precise endless gizmos manipulator with repeatable movement XZ but LZW images and more gizmos | Babylon.js Playground](https://playground.babylonjs.com/#SXQEHL)
 
 [Precise endless gizmos manipulator with repeatable movement XYZ but LZW images and more gizmos | Babylon.js Playground](https://playground.babylonjs.com/#82I98E#1)
+
+[Precise endless gizmos manipulator with repeatable movement XZ but LZW images and more Ocean of floating gizmos | Babylon.js Playground](https://playground.babylonjs.com/#FZ259Q)
