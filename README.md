@@ -54,4 +54,6 @@
 
 [Gizmo mirror (A space with mirrored borders) | Babylon.js Playground](https://playground.babylonjs.com/#6T03ZB#1)
 
-[Precise endless gizmos manipulator with repeatable movement XZ but LZW images and more gizmos | Babylon.js Playground](https://playground.babylonjs.com/#82I98E)
+[Precise endless gizmos manipulator with repeatable movement XZ but LZW images and more gizmos | Babylon.js Playground](https://playground.babylonjs.com/#SXQEHL)
+
+[Precise endless gizmos manipulator with repeatable movement XYZ but LZW images and more gizmos | Babylon.js Playground](https://playground.babylonjs.com/#82I98E)
